@@ -1,4 +1,3 @@
-Here's a sample `README.md` content for your GitHub repository titled "A Scalable Web App in Google Cloud with StencilJS, TypeScript, Docker, Kubernetes, TDD, HarperDB":
 
 ```markdown
 # A Scalable Web App in Google Cloud with StencilJS, TypeScript, Docker, Kubernetes, TDD, HarperDB
